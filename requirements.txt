@@ -1,0 +1,1 @@
+-e git+https://github.com/irgendsontyp/pipenv-dependency.git#egg=pipenv-dependency
